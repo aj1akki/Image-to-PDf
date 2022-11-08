@@ -1,0 +1,17 @@
+<div class="container-fluid">
+  <div id="uploadfile">
+    <ejs-uploader
+      #defaultupload
+      [autoUpload]="true"
+      [asyncSettings]="path"
+      [maxFileSize]="maxFileSize"
+      [multiple]="true"
+      (success)="onUploadSuccess($event)"
+      (failure)="onUploadFailure($event)"
+      [allowedExtensions]="imageFormats"
+      (selected)="onFileSelected($event)"
+      (removing)="onFileRemove($event)"
+    ></ejs-uploader>
+  </div>
+  <button class="btn btn-primary" (click)="onDownload()">Download</button>
+</div>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/ymSWKFj3a1gZtEbUqR39s3tBJsK3a06WDdISOrEWSU=",
+  "Source": "FileManipulationServer",
+  "BasePath": "_content/FileManipulationServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

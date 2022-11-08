@@ -1,0 +1,22 @@
+#uploadfile {
+    width: 60%;
+    display:inline-block;
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+/* To specify height */
+/* .e-upload.e-control-wrapper, .e-bigger.e-small .e-upload.e-control-wrapper {
+    height: 300px;
+    width: 300px;
+} */
+
+
+/* To specify font size and color */
+.e-upload .e-file-select-wrap .e-btn, .e-upload .e-upload-actions .e-btn, .e-bigger.e-small .e-upload .e-file-select-wrap .e-btn, .e-bigger.e-small .e-upload .e-upload-actions .e-btn {
+    font-family: cursive;
+    height: 40px;
+    background-color:slategray;
+    color:beige;
+}

@@ -1,0 +1,90 @@
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\appsettings.json
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.exe
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.deps.json
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.runtimeconfig.json
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.pdb
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.AssemblyReference.cache
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.AssemblyInfoInputs.cache
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.AssemblyInfo.cs
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.CoreCompileInputs.cache
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\scopedcss\bundle\FileManipulationServer.styles.css
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.CopyComplete
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\refint\FileManipulationServer.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.pdb
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.genruntimeconfig.cache
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\ref\FileManipulationServer.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Compression.Portable.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\Projects\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Pdf.Portable.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\appsettings.Development.json
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\appsettings.json
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.exe
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.deps.json
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.runtimeconfig.json
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.pdb
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Compression.Portable.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Licensing.dll
+E:\Adv_File_Manipulation\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Pdf.Portable.dll
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.AssemblyReference.cache
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.AssemblyInfoInputs.cache
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.AssemblyInfo.cs
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.CoreCompileInputs.cache
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.MvcApplicationPartsAssemblyInfo.cs
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.MvcApplicationPartsAssemblyInfo.cache
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\staticwebassets.build.json
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\staticwebassets.development.json
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\scopedcss\bundle\FileManipulationServer.styles.css
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.CopyComplete
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.dll
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\refint\FileManipulationServer.dll
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.pdb
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.genruntimeconfig.cache
+E:\Adv_File_Manipulation\FileManipulationServer\obj\Debug\net6.0\ref\FileManipulationServer.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\appsettings.Development.json
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\appsettings.json
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.exe
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.deps.json
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.runtimeconfig.json
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\FileManipulationServer.pdb
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Compression.Portable.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\Syncfusion.Pdf.Portable.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.AssemblyReference.cache
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.AssemblyInfoInputs.cache
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.AssemblyInfo.cs
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.CoreCompileInputs.cache
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.MvcApplicationPartsAssemblyInfo.cs
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\scopedcss\bundle\FileManipulationServer.styles.css
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.csproj.CopyComplete
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\refint\FileManipulationServer.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.pdb
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.genruntimeconfig.cache
+D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\ref\FileManipulationServer.dll
