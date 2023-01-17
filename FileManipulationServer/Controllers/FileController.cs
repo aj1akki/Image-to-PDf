@@ -16,10 +16,10 @@ namespace FileManipulationServer.Controllers
     public class FileController : ControllerBase
     {
         private readonly ILogger<FileController> _logger;
-        [Obsolete]
+        
         private readonly IHostingEnvironment hostingEnv;
 
-        [Obsolete]
+      
         public FileController(ILogger<FileController> logger, IHostingEnvironment hostingEnvironment)
         {
             _logger = logger;
@@ -27,7 +27,6 @@ namespace FileManipulationServer.Controllers
         }
 
         [HttpPost("Save")]
-        [Obsolete]
         [EnableCors("OpenCORSPolicy")]
         // Upload method for normal upload
         public void UploadImages(IList<IFormFile> chunkFile, IList<IFormFile> UploadFiles)
@@ -74,7 +73,6 @@ namespace FileManipulationServer.Controllers
         }
 
         [HttpPost("Remove")]
-        [Obsolete]
         [EnableCors("OpenCORSPolicy")]
         // to delete uploaded chunk-file from server
         public void RemoveImages(IList<IFormFile> UploadFiles)
@@ -97,7 +95,6 @@ namespace FileManipulationServer.Controllers
         }
 
         [HttpPost("CleanUp")]
-        [Obsolete]
         [EnableCors("OpenCORSPolicy")]
         // to delete uploaded chunk-file from server
         public void CleanUp([FromBody]string[] UploadFiles)
@@ -123,7 +120,6 @@ namespace FileManipulationServer.Controllers
         }
 
         [HttpPost("Download")]
-        [Obsolete]
         [EnableCors("OpenCORSPolicy")]
         [Consumes("application/json")]
         // to delete uploaded chunk-file from server

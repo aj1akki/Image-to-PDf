@@ -88,3 +88,4 @@ D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\refint\FileM
 D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.pdb
 D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\FileManipulationServer.genruntimeconfig.cache
 D:\My Projects\Image-to-PDf\FileManipulationServer\obj\Debug\net6.0\ref\FileManipulationServer.dll
+D:\My Projects\Image-to-PDf\FileManipulationServer\bin\Debug\net6.0\SixLabors.ImageSharp.dll

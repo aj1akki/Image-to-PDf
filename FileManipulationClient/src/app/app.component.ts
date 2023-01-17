@@ -1,14 +1,11 @@
 import { Component, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import {
-  ActionCompleteEventArgs,
-  ClearingEventArgs,
   FileInfo,
   RemovingEventArgs,
   SelectedEventArgs,
   SuccessEventArgs,
   UploaderComponent,
 } from '@syncfusion/ej2-angular-inputs';
-import { getUniqueID } from '@syncfusion/ej2-base';
 import { AppService } from './service/app.service';
 
 @Component({
