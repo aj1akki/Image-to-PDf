@@ -2,9 +2,10 @@
   <div id="uploadfile">
     <ejs-uploader
       #defaultupload
-      [autoUpload]="true"
+      [autoUpload]="false"
       [asyncSettings]="path"
       [maxFileSize]="maxFileSize"
+      [sequentialUpload]="true"
       [multiple]="true"
       (success)="onUploadSuccess($event)"
       (failure)="onUploadFailure($event)"
